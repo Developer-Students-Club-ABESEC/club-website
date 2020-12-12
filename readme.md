@@ -2,8 +2,8 @@
 <a href="#">
 	<img src="https://i.ibb.co/5rbLbdz/DSC-ABES-Engineering-College-Light-Vertical-Logo.png" alt="DSC ABESEC" />
 </a>
-	<h2 align="center"> < Insert Project Title Here > </h2>
-	<h4 align="center"> < Insert Project Description Here > <h4>
+	<h2 align="center"> Club Website</h2>
+	<h4 align="center"> This repository contains the development of Developer-Students-Club, ABESEC Website<h4>
 </p>
 
 ---
