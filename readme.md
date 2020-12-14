@@ -59,7 +59,7 @@ Shreyansh Shukla
 </a>
 </p>
 </td>
-
+<td>
 John Doe
 
 <p align="center">
