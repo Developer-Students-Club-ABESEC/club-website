@@ -24,24 +24,75 @@
 .navbar-brand{
     padding-left: 10px;
 }
-#dev{
+#hd1{
     padding-top: 120px;
     font-style: normal;
+    font-weight: bold;
     font-size: 24px;
-    color: #808080;
+    color: #7C7C7C;
 }
-#det{
+#hd2{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #7C7C7C;
+}
+#p1{
     position: absolute;
     width: 700px;
     height: 220px;
     left: 146px;
     top: 228px;
-    font-family: Product Sans;
     font-style: normal;
     font-weight: normal;
     font-size: 24px;
     color: #7C7C7C;
 }
+#p2{
+    position: absolute;
+    width: 700px;
+    height: 308px;
+    left: 550px;
+    top: 600px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #7C7C7C;
+}
+#p3{
+    position: absolute;
+    width: 450px;
+    height: 132px;
+    left: 550px;
+    top: 1000px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    color: #848484;
+
+}
+#c1{
+    padding-left: 50%;
+}
+#c2{
+    
+}
+#r1{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 350px;
+    top: 1000px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #7C7C7C;
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 25px 5px rgba(60, 186, 84, 0.3);
+    border-radius: 10px;
+}
+
 #r{
     color: #DB3236;;
 }
@@ -53,4 +104,58 @@
 }
 #y{
     color: yellow;
+}
+#ci1{
+    padding-top: 200px;
+    padding-left: 850px;
+    
+}
+#r2{
+    
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #7C7C7C;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 22px;
+    padding-right: 22px;
+    border-radius:50%;
+    border: 5px;
+    border-style: solid;
+    border-left-color:#F4C20D; 
+    border-top-color: #F4C20D;   
+    border-right-color:#3CBA54;
+    border-bottom-color:#3CBA54 ;
+}
+#r3{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 450px;
+    top: 1200px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #7C7C7C;
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 25px 5px rgba(244, 194, 13, 0.3);
+    border-radius: 10px;
+}
+#r4{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 800px;
+    top: 1200px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #7C7C7C;
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 25px 5px rgba(244, 194, 13, 0.3);
+    border-radius: 10px;
 }
