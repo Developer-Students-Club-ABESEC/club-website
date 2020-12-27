@@ -37,6 +37,28 @@
     font-size: 24px;
     color: #7C7C7C;
 }
+#hd3{
+    padding: 40%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 28px;
+    color: #7C7C7C;
+}
+#hd4{
+    padding-top: 5%;
+    padding-left: 30%;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #7C7C7C;
+}
+#hd5{
+    width: auto;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #7C7C7C;
+}
 #p1{
     position: absolute;
     width: 700px;
@@ -61,21 +83,67 @@
 }
 #p3{
     position: absolute;
-    width: 450px;
+    width: 320px;
     height: 132px;
     left: 550px;
     top: 1000px;
     font-style: normal;
     font-weight: normal;
-    font-size: 24px;
+    font-size: 18px;
     color: #848484;
-
+}
+#p4{
+    position: absolute;
+    width: 527px;
+    height: 132px;
+    left: 430px;
+    top: 1270px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #848484;
+}
+#p5{
+    position: absolute;
+    width: 380px;
+    height: 132px;
+    left: 530px;
+    top: 1460px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 18px;
+    color: #848484;
 }
 #c1{
     padding-left: 50%;
 }
 #c2{
-    
+    padding-top: 45%;
+    padding-left: 24%;
+}
+#r{
+    color: #DB3236;;
+}
+#b{
+    color: #4885ED;
+}
+#g{
+    color: green;
+}
+#y{
+    color: yellow;
+}
+#ci1{
+    padding-top: 200px;
+    padding-left: 750px;
+}
+#ci2{
+    padding-top: 225px;
+    padding-left: 250px;
+}
+#ci3{
+    padding-top: 170px;
+    padding-left: 900px;
 }
 #r1{
     position: absolute;
@@ -92,26 +160,7 @@
     box-shadow: 4px 4px 25px 5px rgba(60, 186, 84, 0.3);
     border-radius: 10px;
 }
-
-#r{
-    color: #DB3236;;
-}
-#b{
-    color: #4885ED;
-}
-#g{
-    color: green;
-}
-#y{
-    color: yellow;
-}
-#ci1{
-    padding-top: 200px;
-    padding-left: 850px;
-    
-}
 #r2{
-    
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -133,8 +182,8 @@
     position: absolute;
     width: 150px;
     height: 40px;
-    left: 450px;
-    top: 1200px;
+    left: 480px;
+    top: 1170px;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -148,8 +197,8 @@
     position: absolute;
     width: 150px;
     height: 40px;
-    left: 800px;
-    top: 1200px;
+    left: 750px;
+    top: 1170px;
     font-style: normal;
     font-weight: bold;
     font-size: 24px;
@@ -158,4 +207,89 @@
     background: #FFFFFF;
     box-shadow: 4px 4px 25px 5px rgba(244, 194, 13, 0.3);
     border-radius: 10px;
+}
+#r5{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #7C7C7C;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 35px;
+    padding-right: 35px;
+    border-radius:50%;
+    border: 5px;
+    border-style: solid;
+    border-left-color:#DB3236; 
+    border-top-color: #DB3236;   
+    border-right-color:#F4C20D;
+    border-bottom-color:#F4C20D;
+}
+#r6{
+    position: absolute;
+    width: 150px;
+    height: 40px;
+    left: 350px;
+    top: 1470px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #7C7C7C;
+    text-align: center;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 25px 5px rgba(72, 133, 237, 0.3);
+    border-radius: 10px;
+}
+#r7{
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    color: #7C7C7C;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 38px;
+    padding-right: 38px;
+    border-radius:50%;
+    border: 5px;
+    border-style: solid;
+    border-left-color:#F4C20D; 
+    border-top-color: #F4C20D;   
+    border-right-color:#4885ED;
+    border-bottom-color:#4885ED;
+}
+#crd1{
+    position: absolute;
+    width: 387px;
+    height: 412px;
+    left: 260px;
+    top: 1700px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 15px 12px rgba(211, 211, 211, 0.6);
+    border-radius: 15px;
+}
+#crd2{
+    position: absolute;
+    width: 387px;
+    height: 412px;
+    left: 860px;
+    top: 1700px;
+    background: #FFFFFF;
+    box-shadow: 4px 4px 15px 12px rgba(211, 211, 211, 0.6);
+    border-radius: 15px;
+}
+#bc{
+    padding-left: 65%;
+}
+#ml{
+    padding-left: 30%;
+}
+#osc{
+    padding-left: 55%;
+}
+#endlogo{
+    padding-left: 40%;
+    padding-top: 5%;
+    padding-bottom: 20%;
 }
