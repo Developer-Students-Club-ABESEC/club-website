@@ -59,6 +59,22 @@ Shreyansh Shukla
 </a>
 </p>
 </td>
+
+
+<td>
+
+Rajat Shrivastava
+
+<p align="center">
+<img src = "https://avatars3.githubusercontent.com/u/51124175?s=460&u=886dacbae38ee794e54deab165ab9bcfeecbeb13&v=4" width="180" height="150" alt="Rajat Shrivastava">
+</p>
+<p align="center">
+<a href = "https://github.com/rajat-0206"><img src = "http://www.iconninja.com/files/241/825/211/round-collaboration-social-github-code-circle-network-icon.svg" width="36" height = "36" alt="GitHub"/></a>
+<a href = "https://www.linkedin.com/in/rajat0206">
+<img src = "http://www.iconninja.com/files/863/607/751/network-linkedin-social-connection-circular-circle-media-icon.svg" width="36" height="36" alt="LinkedIn"/>
+</a>
+</p>
+</td>
 <td>
 John Doe
 
