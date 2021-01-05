@@ -543,3 +543,11 @@ section {
       margin:10px 0px;
     }
   }
+
+  @media screen and (max-width:1100px){
+
+    .special .motto img{
+      height:98vh;
+      transform: translateY(-5px);
+    }
+  }
