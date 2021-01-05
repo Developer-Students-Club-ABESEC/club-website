@@ -38,19 +38,22 @@
     color: #7C7C7C;
 }
 #hd3{
-    padding: 40%;
+    margin:0px auto;
+    text-align: center;
+    width: 100%;
     font-style: normal;
     font-weight: bold;
     font-size: 28px;
     color: #7C7C7C;
 }
 #hd4{
-    padding-top: 5%;
-    padding-left: 30%;
+    margin:0px auto;
+    text-align: center;
     font-style: normal;
-    font-weight: bold;
-    font-size: 24px;
+    font-weight: 700;
+    font-size: 32px;
     color: #7C7C7C;
+    margin-top:50px;
 }
 #hd5{
     width: auto;
@@ -104,8 +107,9 @@
     padding-left: 50%;
 }
 #c2{
-    padding-top: 45%;
-    padding-left: 24%;
+    margin:0px auto;
+    align-items: center;
+    text-align: center;
 }
 #r{
     color: #DB3236;;
@@ -233,33 +237,38 @@
 }
 #crd1{
     
-    width: 387px;
+    width: 100%;
+    max-width:400px;
     height: 412px;
+    text-align: center;
+    margin-right:10px;
     background: #FFFFFF;
     box-shadow: 4px 4px 15px 12px rgba(211, 211, 211, 0.6);
     border-radius: 15px;
 }
 #crd2{
     
-    width: 387px;
+    width:100%;
+    max-width:400px;
     height: 412px;
+    text-align: center;
     background: #FFFFFF;
     box-shadow: 4px 4px 15px 12px rgba(211, 211, 211, 0.6);
     border-radius: 15px;
 }
 #bc{
-    padding-left: 65%;
+   
 }
 #ml{
-    padding-left: 30%;
+
 }
 #osc{
-    padding-left: 55%;
+    
 }
 #endlogo{
-    padding-left: 40%;
-    padding-top: 5%;
-    padding-bottom: 20%;
+  margin:0px auto;
+  text-align: center;
+  margin-top:30px;
 }
 
 section {
@@ -411,8 +420,7 @@ section {
   }
   @media screen and (max-width:991px) {
     .special{
-      height:200vh;
-      margin:50px;
+      min-height:250vh;
     }
     section{
       padding:20px !important;
@@ -458,5 +466,40 @@ section {
 
     #sub1 .circles{
       width:100%;
+    }
+    .techs{
+      text-align: center;
+      align-items: center;
+    }
+
+    .techs img{
+      align-items: center;
+      text-align: center;
+      margin: 0px auto;
+    }
+    .techs .w3-left{
+      text-align: center !important;
+      display: flex;
+      flex-direction: column;
+      margin:10px 0px;
+    }
+
+    .techs .w3-right{
+      text-align: center !important;
+      display: flex;
+      flex-direction: column-reverse;
+      margin:10px 0px;
+    }
+    .techs .cor{
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      margin:10px 0px;
+    }
+    .techs .w3-center{
+      text-align: center;
+      display: flex;
+      flex-direction: column;
+      margin:10px 0px;
     }
   }
